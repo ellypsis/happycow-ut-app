@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Happy Cow
+Exec=webapp-container --webappUrlPatterns=https?://www.happycow.net/* https://www.happycow.net
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

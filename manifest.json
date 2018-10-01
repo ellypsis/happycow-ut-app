@@ -1,0 +1,15 @@
+{
+    "name": "happycow.ellypsis",
+    "description": "Unofficial Happy Cow webapp",
+    "architecture": "all",
+    "title": "Happy Cow",
+    "hooks": {
+        "happycow": {
+            "apparmor": "happycow.apparmor",
+            "desktop":  "happycow.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "ellypsis <ellypsis@msquare.ovh>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
